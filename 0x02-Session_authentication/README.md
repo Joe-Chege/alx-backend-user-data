@@ -2,24 +2,6 @@
 
 ## Curriculum - Session Authentication
 
-### Short Specializations
-- **Average:** 117.68%
-- **0x02. Session authentication**
-  - **Back-end**
-  - **Authentication**
-  - **By: Guillaume, CTO at Holberton School**
-  - **Weight: 1**
-  - **Project Duration: Feb 14, 2024, 6:00 AM to Feb 16, 2024, 6:00 AM**
-  - **Auto Review Deadline: Feb 16, 2024, 6:00 AM**
-
-### In a nutshell…
-- **Auto QA review:**
-  - **0.0/135 mandatory & 0.0/46 optional**
-- **Altogether: 0.0%**
-  - **Mandatory: 0.0%**
-  - **Optional: 0.0%**
-- **Calculation: 0.0% + (0.0% * 0.0%) == 0.0%**
-
 ### Background Context
 In this project, you will implement Session Authentication. You are not allowed to install any other module.
 
