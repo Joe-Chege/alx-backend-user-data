@@ -1,17 +1,6 @@
 Back-end Authentication Project
 Overview
 This project focuses on implementing back-end authentication features to enhance the security of the application. Authenticated access ensures that only authorized users can interact with sensitive data and functionalities.
-
-Contributor
-Emmanuel Turlay
-Staff Software Engineer at Cruise
-Project Details
-Weight: 1
-Project Start: Feb 7, 2024, 6:00 AM
-Project End: Feb 9, 2024, 6:00 AM
-Checker Release: Feb 7, 2024, 6:00 PM
-QA Review: Manual review required (request it upon project completion)
-Auto Review: Will be launched at the deadline
 Resources
 Read or Watch:
 What Is PII, non-PII, and Personal Data?
